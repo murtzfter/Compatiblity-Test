@@ -1,10 +1,4 @@
-"
 
-
-PART 1
-
-
-"
 
 
 import csv
@@ -75,5 +69,5 @@ app.router.add_post("/process_csv", handle_csv)
 web.run_app(app, port=8080)
 
 
-"PART 2"
+
 
